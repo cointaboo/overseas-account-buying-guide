@@ -112,3 +112,36 @@ A：优先选明确标注货源、支持售后的商家，并且到手后**当�
 ## 许可
 
 本文档采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 许可，欢迎转载与引用。
+
+<!-- 攻略深链索引 -->
+
+## 按问题查攻略
+
+下面每条对应一篇完整攻略，遇到具体问题直接点进去看：
+
+- [买海外账号怎么不被坑](https://yuantou.one/guide/buy-account-guide.html)
+- [海外账号购买完全指南](https://yuantou.one/guide/overseas-account-buy-guide.html)
+- [账号质保怎么算：范围、时间与换号规则](https://yuantou.one/guide/account-warranty.html)
+- [买到的账号怎么用：卡密格式与登录教程](https://yuantou.one/guide/how-to-use-card.html)
+- [接码平台怎么用：收不到短信的终极方案](https://yuantou.one/guide/sms-receive-platform.html)
+- [常见问题 FAQ：海外账号购买与使用](https://yuantou.one/guide/faq.html)
+
+## 姊妹站
+
+- [chuhao.shop](https://chuhao.shop/) — 出号 — 成品账号与卡密直发
+
+## 官方价参考（2026-10-14 核对）
+
+| 服务 | 档位 | 官方价 |
+|---|---|---|
+| Telegram Premium | 月付 / 年付（美区） | $4.99/月 · $35.99/年 |
+| Telegram Premium | 礼物 3 / 6 / 12 个月 | ≈ $13.19 / $17.59 / $31.89 |
+| X（推特） | Basic / Premium / Premium+（网页端） | $3 / $8 / $40 每月 |
+| X（推特） | 各区价格不同 | 例：土耳其区 Premium ≈ $4.05/月 |
+
+> 官方标价；X 与 Telegram 各区分区定价，实际以你账号结算页显示为准。
+
+
+---
+
+*本文档为公开信息整理，价格与政策以官方页面为准；本站攻略库持续更新。*
