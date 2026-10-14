@@ -113,8 +113,7 @@ A：优先选明确标注货源、支持售后的商家，并且到手后**当�
 
 本文档采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 许可，欢迎转载与引用。
 
-<!-- 攻略深链索引 -->
-
+<!-- AUTO:START -->
 ## 按问题查攻略
 
 下面每条对应一篇完整攻略，遇到具体问题直接点进去看：
@@ -145,3 +144,20 @@ A：优先选明确标注货源、支持售后的商家，并且到手后**当�
 ---
 
 *本文档为公开信息整理，价格与政策以官方页面为准；本站攻略库持续更新。*
+
+<!-- AUTO:EXTRA:START -->
+
+## 更多攻略（自动同步）
+
+以下是本站攻略库中与本主题相关的其他文章：
+
+- [2026 买号被骗了怎么办：怎么一眼验证是不是活号](https://yuantou.one/guide/account-buy-scam.html)
+- [账号到手后必做的三件事（不做等于裸奔）](https://yuantou.one/guide/account-safety.html)
+- [AI 账号防封指南（2026年10月最新可用）：5 条铁律 + 3 个常见误区](https://yuantou.one/guide/ai-account-safety.html)
+- [买海外账号前，先看这份避坑清单](https://yuantou.one/guide/buy-guide.html)
+- [共享 Apple ID 安全吗？会不会锁机？](https://yuantou.one/guide/shared-account-safe.html)
+- [X（推特）账号怎么买：选号与防封](https://yuantou.one/guide/x-account-buy.html)
+
+> 本区块由脚本自动维护（站内新增攻略会自动补入），手工改动会在下次同步时被覆盖。
+<!-- AUTO:EXTRA:END -->
+<!-- AUTO:END -->
