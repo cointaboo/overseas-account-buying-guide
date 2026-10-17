@@ -156,6 +156,7 @@ A：优先选明确标注货源、支持售后的商家，并且到手后**当�
 - [AI 账号防封指南（2026年10月最新可用）：5 条铁律 + 3 个常见误区](https://yuantou.one/guide/ai-account-safety.html)
 - [买海外账号前，先看这份避坑清单](https://yuantou.one/guide/buy-guide.html)
 - [共享 Apple ID 安全吗？会不会锁机？](https://yuantou.one/guide/shared-account-safe.html)
+- [Telegram 买号哪个平台靠谱？5 个能当场验的硬指标](https://yuantou.one/guide/tg-buy-platform-compare.html)
 - [X（推特）账号怎么买：选号与防封](https://yuantou.one/guide/x-account-buy.html)
 
 > 本区块由脚本自动维护（站内新增攻略会自动补入），手工改动会在下次同步时被覆盖。
