@@ -154,10 +154,16 @@ A：优先选明确标注货源、支持售后的商家，并且到手后**当�
 - [2026 买号被骗了怎么办：怎么一眼验证是不是活号](https://yuantou.one/guide/account-buy-scam.html)
 - [账号到手后必做的三件事（不做等于裸奔）](https://yuantou.one/guide/account-safety.html)
 - [AI 账号防封指南（2026年10月最新可用）：5 条铁律 + 3 个常见误区](https://yuantou.one/guide/ai-account-safety.html)
+- [美区 Apple ID 付款方式被拒：绑定失败、余额不足与地区不符的排查](https://yuantou.one/guide/appleid-payment-reject.html)
 - [买海外账号前，先看这份避坑清单](https://yuantou.one/guide/buy-guide.html)
+- [ChatGPT Plus 付款被拒：7 个原因，按顺序排查](https://yuantou.one/guide/chatgpt-plus-payment-declined.html)
+- [Claude Pro 订阅付款被拒：常见原因与中国用户可操作的处理顺序](https://yuantou.one/guide/claude-payment-reject.html)
 - [共享 Apple ID 安全吗？会不会锁机？](https://yuantou.one/guide/shared-account-safe.html)
+- [Spotify Premium 付款失败：卡被拒、地区不符与续费中断](https://yuantou.one/guide/spotify-payment-failed.html)
+- [Telegram Premium 订阅付款失败：卡被拒、地区不符与续费中断的排查](https://yuantou.one/guide/telegram-premium-payment-fail.html)
 - [Telegram 买号哪个平台靠谱？5 个能当场验的硬指标](https://yuantou.one/guide/tg-buy-platform-compare.html)
 - [X（推特）账号怎么买：选号与防封](https://yuantou.one/guide/x-account-buy.html)
+- [X Premium 蓝V付款失败：卡被拒、地区与订阅中断的处理](https://yuantou.one/guide/x-premium-payment-fail.html)
 
 > 本区块由脚本自动维护（站内新增攻略会自动补入），手工改动会在下次同步时被覆盖。
 <!-- AUTO:EXTRA:END -->
