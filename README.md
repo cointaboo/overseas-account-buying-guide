@@ -168,3 +168,5 @@ A：优先选明确标注货源、支持售后的商家，并且到手后**当�
 > 本区块由脚本自动维护（站内新增攻略会自动补入），手工改动会在下次同步时被覆盖。
 <!-- AUTO:EXTRA:END -->
 <!-- AUTO:END -->
+
+- 相关主题：[ai-account-playbook](https://github.com/cointaboo/ai-account-playbook) · [apple-id-notes](https://github.com/cointaboo/apple-id-notes) · [telegram-account-notes](https://github.com/cointaboo/telegram-account-notes) · [payment-topup-notes](https://github.com/cointaboo/payment-topup-notes) · [overseas-account-buying-guide](https://github.com/cointaboo/overseas-account-buying-guide) · [account-guide-mcp](https://github.com/cointaboo/account-guide-mcp)
